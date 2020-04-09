@@ -4,6 +4,6 @@
  */
 public class EasyGit {
     public static void main(String[] args) {
-        System.out.println("hello world 12!");
+        System.out.println("hello world dev呀!");
     }
 }
